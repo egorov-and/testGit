@@ -10,7 +10,7 @@ def print_hi(name):
 
 
 # Press the green button in the gutter to run the script.
-# Tes1t
+# Tes2t
 if __name__ == '__main__':
     print_hi('PyCharm')
     print_hi('PyCharm2')
